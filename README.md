@@ -16,6 +16,8 @@
 
 - **Frontend**: React, Vite
 - **CSS**
+- **HTML5**
+- **JavaScript**
 
 ## Setup Instructions
 
@@ -29,30 +31,18 @@ Before you begin, make sure you have the following installed on your local machi
 ### Installation
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/CS2024176_WFO2407_Group-A_Ayanda-Sangweni_DJS11.git
-   ```
+   - git clone https://github.com/your-username/CS2024176_WFO2407_Group-A_Ayanda-Sangweni_DJS11.git
 
 2. Navigate to the project directory:
-
-   ```bash
-   cd CS2024176_WFO2407_Group-A_Ayanda-Sangweni_DJS11
-   ```
+   - cd CS2024176_WFO2407_Group-A_Ayanda-Sangweni_DJS11
 
 3. Install the dependencies:
-
-   ```bash
-   npm install
-   ```
+   - npm install
 
 ### Development Server
 
 To run the app locally in development mode, execute the following command:
-
-```bash
-npm run dev
-```
+   - npm run dev
 
 This will start the development server, and the app will be available at `http://localhost:5174/`.
 
