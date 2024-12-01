@@ -1,17 +1,3 @@
-/* Container for the show preview */
-.show-card {
-  display: block;
-  border: 1px solid #E2C8D8; 
-  border-radius: 0.5rem; 
-  overflow: hidden;
-  box-shadow: 0 1px 3px #ADADAD; 
-  transition: box-shadow 0.3s ease-in-out; 
-}
-
-.show-card:hover {
-  box-shadow: 0 4px 6px #ADADAD; 
-}
-
 /* Show card title styles */
 .show-card-title {
   color: #CA7C83; 
@@ -26,7 +12,6 @@
   font-size: 1rem; 
   font-weight: normal;
 }
-
 
 /* Image styles */
 .show-card-image {
